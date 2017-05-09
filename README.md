@@ -1,1 +1,1 @@
-# docker-hdfs-journalnode
+# docker-hdfs
